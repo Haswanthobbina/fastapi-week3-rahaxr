@@ -1,5 +1,5 @@
 # fastapi-week3-rahaxr
-Week 3 Task – FastAPI "Hello World" (Quotes API)
+Week 3 Task – FastAPI (Quotes API)
 
 This task involves creating a FastAPI application that reads a list of quotes from a JSON file and returns them through a GET endpoint.
 
